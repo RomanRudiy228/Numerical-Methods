@@ -1,0 +1,21 @@
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\bin\Debug\net6.0-windows\ЛАБ№4 ЧМ.exe
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\bin\Debug\net6.0-windows\ЛАБ№4 ЧМ.deps.json
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\bin\Debug\net6.0-windows\ЛАБ№4 ЧМ.runtimeconfig.json
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\bin\Debug\net6.0-windows\ЛАБ№4 ЧМ.dll
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\bin\Debug\net6.0-windows\ЛАБ№4 ЧМ.pdb
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ№4 ЧМ.csproj.AssemblyReference.cache
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ_4_ЧМ.Form1.resources
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ_4_ЧМ.Form2.resources
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ_4_ЧМ.Form3.resources
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ_4_ЧМ.Form4.resources
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ_4_ЧМ.Form5.resources
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ№4 ЧМ.csproj.GenerateResource.cache
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ№4 ЧМ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ№4 ЧМ.AssemblyInfoInputs.cache
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ№4 ЧМ.AssemblyInfo.cs
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ№4 ЧМ.csproj.CoreCompileInputs.cache
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ№4 ЧМ.dll
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\refint\ЛАБ№4 ЧМ.dll
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ№4 ЧМ.pdb
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ЛАБ№4 ЧМ.genruntimeconfig.cache
+C:\Users\vilja\source\repos\ЛАБ№4 ЧМ\ЛАБ№4 ЧМ\obj\Debug\net6.0-windows\ref\ЛАБ№4 ЧМ.dll
