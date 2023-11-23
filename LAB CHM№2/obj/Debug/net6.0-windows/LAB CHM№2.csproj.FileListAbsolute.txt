@@ -1,0 +1,22 @@
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\bin\Debug\net6.0-windows\LAB CHM№2.exe
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\bin\Debug\net6.0-windows\LAB CHM№2.deps.json
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\bin\Debug\net6.0-windows\LAB CHM№2.runtimeconfig.json
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\bin\Debug\net6.0-windows\LAB CHM№2.dll
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\bin\Debug\net6.0-windows\LAB CHM№2.pdb
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB CHM№2.csproj.AssemblyReference.cache
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB_CHM_2.Form1.resources
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB CHM№2.csproj.GenerateResource.cache
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB CHM№2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB CHM№2.AssemblyInfoInputs.cache
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB CHM№2.AssemblyInfo.cs
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB CHM№2.csproj.CoreCompileInputs.cache
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB CHM№2.dll
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\refint\LAB CHM№2.dll
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB CHM№2.pdb
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB CHM№2.genruntimeconfig.cache
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\ref\LAB CHM№2.dll
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB_CHM_2.Form2.resources
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB_CHM_2.Form3.resources
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB_CHM_2.Form4.resources
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB_CHM_2.Form5.resources
+C:\Users\vilja\source\repos\LAB CHM№2\LAB CHM№2\obj\Debug\net6.0-windows\LAB_CHM_2.Form6.resources
